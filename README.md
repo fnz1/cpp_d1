@@ -2,3 +2,5 @@
 c++ project
 
 wasm project
+
+quickjs binding with wasm
